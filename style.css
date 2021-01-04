@@ -628,13 +628,15 @@ p {
 
 }
 	.marks-progress {
-		margin-top: 7vh;
-		left:15%;
+		margin-top: -8%;
+		left:18%;
 }
 	.marks-progress ul li {
-    		padding-top: 7vh;
+    		padding-top: 8vh;
+		
 		
 	}
+
 
 }
 
