@@ -616,6 +616,26 @@ p {
 		display: none;
 	}
 
+	#contact .section-title{
+	position: relative;
+	left: 0;
+	top: 50%;
+	margin-top: 20vh;
+	}
+	
+	.education p {
+	padding-top: 7vh;
+
+}
+	.marks-progress {
+		margin-top: 7vh;
+		left:15%;
+}
+	.marks-progress ul li {
+    		padding-top: 7vh;
+		
+	}
+
 }
 
 @media only screen and (max-width: 640px){
