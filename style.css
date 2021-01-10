@@ -293,6 +293,12 @@ p {
 #services .service-top h1,p {
     color: white;
 }
+#services .service-top p {
+    font-style: italic;
+}
+#services .service-top span {
+    color: red;
+}
 #services .service-bottom {
 	display: flex;
 	align-items: center;
